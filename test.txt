@@ -1,3 +1,0 @@
-test
-erik testet test.txt
-ben testet test.txt nochmal
